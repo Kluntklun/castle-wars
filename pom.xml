@@ -10,4 +10,7 @@
 	<name>castle-wars</name>
 
 
+	<modules>
+		<module>castle-wars-service</module>
+	</modules>
 </project>
